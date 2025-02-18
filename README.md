@@ -1,13 +1,8 @@
-# mahbubi
-
 <h1 align="center">Hi 👋, I'm Mahbubi</h1>
-<h2 align="center">I'm BackEnd Developer</h2>
   <br></br>
 <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif" height="500" />
 </div>
-
-
 
 <p align="left"></p>
 <h3 align="left">Languages and Tools:</h3>
@@ -42,11 +37,10 @@
       <a href="https://code.visualstudio.com/ target="_blank" rel="Visual Studio Code"> 
     <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubi45&show_icons=true&locale=en&layout=compact&theme=radical" alt="mahbubi45" /> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mahbubi45&show_icons=true&locale=en&layout=compact&theme=radical" alt="mahbubi45)
-
-<!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbubi45&show_icons=true&locale=en" alt="mahbubi45" /></p> -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubi45&show_icons=true&theme=radical)  -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubi45&show_icons=true&locale=en&layout=compact&theme=radical" alt="mahbubi45" />
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbubi45&show_icons=true&locale=en" alt="mahbubi45" /></p> -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubi45&show_icons=true&theme=radical) -->
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=mahbubi45&show_icons=true&theme=radical"/>
 
   
+<!--snake   [snake gif](https://github.com/mahbubi45/mahbubi45/blob/output/github-contribution-grid-snake.svg)  -->

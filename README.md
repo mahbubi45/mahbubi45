@@ -40,7 +40,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubi45&show_icons=true&locale=en&layout=compact&theme=radical" alt="mahbubi45" />
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbubi45&show_icons=true&locale=en" alt="mahbubi45" /></p> -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubi45&show_icons=true&theme=radical) -->
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=mahbubi45&show_icons=true&theme=radical"/>
-
   
 <!--snake   [snake gif](https://github.com/mahbubi45/mahbubi45/blob/output/github-contribution-grid-snake.svg)  -->
